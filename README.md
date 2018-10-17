@@ -1,7 +1,7 @@
 # Installation Odoo 11 Debian Stretch
 
 1. Download the script:
-sudo wget https://raw.githubusercontent.com/jcchoquet/install/11.0/script_install.sh
+  sudo wget https://raw.githubusercontent.com/jcchoquet/install/11.0/script_install.sh
 
 2. Modify the parameters as you wish.
 There are a few things you can configure, this is the most used list:
@@ -13,6 +13,6 @@ IS_ENTERPRISE will install the Enterprise version on top of 11.0 if you set it t
 OE_SUPERADMIN is the master password for this Odoo installation.
 
 3. Make the script executable
-sudo chmod +x script_install.sh
+  sudo chmod +x script_install.sh
 4. Execute the script:
-sudo ./script_install.sh
+  sudo ./script_install.sh
