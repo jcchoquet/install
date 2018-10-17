@@ -1,5 +1,4 @@
-# install
-Installation Odoo 11 Debian Stretch
+# Installation Odoo 11 Debian Stretch
 
 1. Download the script:
 sudo wget https://raw.githubusercontent.com/jcchoquet/install/11.0/script_install.sh
