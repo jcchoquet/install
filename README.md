@@ -1,0 +1,2 @@
+# install
+Install odoo
